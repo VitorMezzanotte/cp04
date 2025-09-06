@@ -12,7 +12,7 @@ Projeto de exemplo entregue para disciplina Web / Front.
 - RM: [562051]
 - Nome: Vitor Mezzanotte Constante
 - Repositório: https://github.com/ESPICPFRONT/cp04
-- Deploy (Vercel): 
+- Deploy (Vercel):  
 
 
 
