@@ -11,7 +11,7 @@ Projeto de exemplo entregue para disciplina Web / Front.
 ## Entrega
 - RM: [562051]
 - Nome: Vitor Mezzanotte Constante
-- Repositório: https://github.com/cp04
+- Repositório: https://github.com/VitorMezzanotte/cp04
 - Deploy (Vercel):  
 
 
